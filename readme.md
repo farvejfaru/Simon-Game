@@ -34,6 +34,8 @@ This project is built using **HTML, CSS, and JavaScript**, demonstrating **DOM m
 4️⃣ If correct, the game **adds another step** and increases the level.\
 5️⃣ If incorrect, the game **resets** and displays the final score.
 
+## Link https://farvejfaru.github.io/Simon-Game/
+
 ---
 
 
