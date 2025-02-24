@@ -1,4 +1,4 @@
-# 🎮 Simon Game - JavaScript Implementation
+![Simon_Game](https://github.com/user-attachments/assets/98c61d1e-fe54-4ad6-b90e-4b690a31a263)# 🎮 Simon Game - JavaScript Implementation
 
 ## 📌 About the Project
 
@@ -33,3 +33,6 @@ This project is built using **HTML, CSS, and JavaScript**, demonstrating **DOM m
 3️⃣ The player **clicks the correct button(s) in order**.\
 4️⃣ If correct, the game **adds another step** and increases the level.\
 5️⃣ If incorrect, the game **resets** and displays the final score.
+![Simon_Game](https://github.com/user-attachments/assets/37386ca3-8005-4b21-8c1b-b01173eca5e9)
+
+
