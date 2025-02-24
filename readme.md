@@ -1,4 +1,4 @@
-![Simon_Game](https://github.com/user-attachments/assets/98c61d1e-fe54-4ad6-b90e-4b690a31a263)# 🎮 Simon Game - JavaScript Implementation
+# 🎮 Simon Game - JavaScript Implementation
 
 ## 📌 About the Project
 
