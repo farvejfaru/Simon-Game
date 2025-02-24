@@ -6,6 +6,8 @@ The **Simon Game** is a memory-based game where players must **repeat a sequence
 
 This project is built using **HTML, CSS, and JavaScript**, demonstrating **DOM manipulation, event handling, and game logic**.
 
+Play the game here: [Simon Game](https://farvejfaru.github.io/Simon-Game/)
+
 ---
 
 ## 🚀 Features
@@ -26,15 +28,13 @@ This project is built using **HTML, CSS, and JavaScript**, demonstrating **DOM m
 
 ---
 
-## 📜 How It Works
+## 📝 How It Works
 
 1️⃣ **Press any key** to start the game.\
 2️⃣ The game flashes a **random button**, starting the sequence.\
 3️⃣ The player **clicks the correct button(s) in order**.\
 4️⃣ If correct, the game **adds another step** and increases the level.\
 5️⃣ If incorrect, the game **resets** and displays the final score.
-
-## Link https://farvejfaru.github.io/Simon-Game/
 
 ---
 
